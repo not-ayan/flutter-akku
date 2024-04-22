@@ -1,4 +1,4 @@
-name: fuzz_app
+name: fuzz
 descriptiob: A new Flutter project
 vesion: 1.0.0+1
 environment:
